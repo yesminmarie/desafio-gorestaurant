@@ -12,7 +12,7 @@
 </p>
 
 <h1 id="objective">:bulb: Objective</h1>
-</p>This application allows the creation, removal, update and listing dishes. The project is connected with a fake API.</p>
+</p>This application allows the user to create, remove and update the dishes. The project is connected with a fake API.</p>
 
 <h1 id="technologies">:rocket: Technologies</h1>
 
